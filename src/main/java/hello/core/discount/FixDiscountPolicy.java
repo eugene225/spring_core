@@ -14,7 +14,5 @@ public class FixDiscountPolicy implements DiscountPolicy {
         }else{
             return 0;
         }
-
-        return 0;
     }
 }
